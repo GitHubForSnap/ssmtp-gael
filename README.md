@@ -11,5 +11,12 @@ A secure, effective and simple way of getting mail off a system to your mail hub
 sudo vi /var/snap/ssmtp-gael/current/ssmtp.conf
 ```
 
+* Create aliases
+```
+sudo snap alias ssmtp-gael.ssmtp ssmtp
+sudo snap alias ssmtp-gael.ssmtp sendmail
+sudo snap alias ssmtp-gael.ssmtp mailq
+```
+
 **2021-04-24**
 * Initial release
