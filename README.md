@@ -20,6 +20,9 @@ sudo snap alias ssmtp-gael.ssmtp sendmail
 sudo snap alias ssmtp-gael.ssmtp mailq
 ```
 
+**2024-01-23**
+* New build to resolve CVE-2024-0553/CVE-2024-0567/USN-6593-1
+
 **2023-03-01**
 * New build to resolve CVE-2023-0361/USN-5901-1
 
