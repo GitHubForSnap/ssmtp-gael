@@ -20,6 +20,9 @@ sudo snap alias ssmtp-gael.ssmtp sendmail
 sudo snap alias ssmtp-gael.ssmtp mailq
 ```
 
+**2025-03-12**
+* New build to resolve CVE-2024-12243/USN-7281-1
+
 **2024-04-16**
 * New build to resolve CVE-2024-28834/CVE-2024-28835/USN-6733-1
 * ssmtp-gael will now use core22 as most of the users are on Ubuntu 22.04
